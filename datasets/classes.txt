@@ -1,0 +1,12 @@
+blind pathway
+pedestrian
+greenbelt
+motor vehicle
+dog
+trash can
+fence
+wall
+bus stop
+traffic lights
+electric bicycle
+bicycle
